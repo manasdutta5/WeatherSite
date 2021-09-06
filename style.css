@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+
+.bangalore_pic {
+  height: 100px;
+  width: 200px;
+  border-radius: 21px;
+  background-image: url(images/bangalore.webp);
+  background-size: cover;
+}
+
+.location_text {
+  color: white;
+  font-weight: bold;
+  padding-top: 21px;
+  align-items: center;
+}
+
+.left {
+  background-color: white;
+  float: left;
+  width: 20%;
+  padding: 30px;
+  margin-top: 40px;
+  margin-left: 150px;
+  border-radius: 25px 0px 0px 25px;
+  height: 680px;
+}
+
+.right {
+  background-color: white;
+  float: left;
+  width: 60%;
+  padding: 30px;
+  right: 0px;
+  padding-right: 0px;
+  margin-top: 40px;
+  border-radius: 0px 25px 25px 0px;
+  height: 680px;
+}
+
+.navimg {
+  width: 40px;
+  height: 40px;
+}
+
+.card {
+  width: 100px;
+  border-radius: 10px;
+}
+.col-sm-1 {
+  margin-right: 40px;
+}
+div.gallery {
+  padding: 10px;
+  margin: 5px;
+  padding-top: 2px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 240px;
+  height: 160px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+div.gallery img {
+  width: 60%;
+  height: 80px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.gallery1 {
+  text-align: left;
+}
+.imgs {
+  width: 10px;
+  height: 10px;
+}
+.New {
+  width: 100%;
+  height: 170px;
+  border-radius: 15px;
+}
+span {
+  color: gray;
+}
+.base {
+  font-size: 12px;
+}
